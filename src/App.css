@@ -57,6 +57,7 @@ h2 {
   margin-inline: 16px;
 }
 .card {
+  cursor: pointer;
   position: relative;
   max-width: 164px;
   button {
@@ -127,6 +128,16 @@ h3 {
 
 .trend-list img:hover {
   transform: scale(1.1); 
+}
+.card > img:first-child {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out; /* Smooth büyüme animasyonu */
+}
+
+.card:hover > img:first-child {
+  transform: scale(1.1); /* Resmin büyüme oranı */
 }
 
 .trend-card {
@@ -307,7 +318,5 @@ h3 {
   .trend-list {
     margin-left: 164px;
   }
-  p {
-    margin-left: 153px;
-  }
+
 }

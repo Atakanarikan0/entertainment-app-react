@@ -66,14 +66,14 @@ function App() {
   return (
     <div className='container'>
       <header>
-        <a href="#/"><img src="/public/img/movie-logo.svg" alt="" /></a>
+        <a href="#/"><img src="/img/movie-logo.svg" alt="" /></a>
         <div className='menu'>
-          <a href="#/"><img src="/public/img/home-icon.svg" alt="" /></a>
-          <a href="#/movies"><img src="/public/img/movies-icon.svg" alt="" /></a>
-          <a href="#/series"><img src="/public/img/series-icon.svg" alt="" /></a>
-          <a href="#/bookmarks"><img src="/public/img/bookmark.svg" alt="" /></a>
+          <a href="#/"><img src="/img/home-icon.svg" alt="" /></a>
+          <a href="#/movies"><img src="/img/movies-icon.svg" alt="" /></a>
+          <a href="#/series"><img src="/img/series-icon.svg" alt="" /></a>
+          <a href="#/bookmarks"><img src="/img/bookmark.svg" alt="" /></a>
         </div>
-        <img src="/public/img/user-icon.svg" alt="" />
+        <img src="/img/user-icon.svg" alt="" />
       </header>
        <div className='search'>
           <input type="text" onChange={(e) => setSearch(e.target.value)} placeholder={placeholder}/>
@@ -116,8 +116,8 @@ function Home() {
                   <img src={x.image} onClick={()=> window.location.href = x.trailer}/>
                   <button onClick={()=> handleClick(x.title)}><img src={
                         selected[x.title] 
-                          ? "/public/img/ticket-active-icon.png" 
-                          : "/public/img/ticket-icon.png"
+                          ? "/img/ticket-active-icon.png" 
+                          : "/img/ticket-icon.png"
                       } className='trend-ticket-img' alt="" /></button>
 
                   <div className="card-overlay" >
@@ -125,8 +125,8 @@ function Home() {
                       <span>{new Date(x.release_date).getFullYear()}</span>
                       <img src={
                         x.type === "movie"
-                          ? "/public/img/movies-icon.svg" 
-                          : "/public/img/series-icon.svg"
+                          ? "/img/movies-icon.svg" 
+                          : "/img/series-icon.svg"
                       } alt="" />
                       <span>{x.type}</span>
                       <span>{x.age_rating.split("-")[0]}</span>
@@ -151,7 +151,7 @@ function Home() {
           .map((x, i) => 
           <div className='card' key={i}>
             <img src={x.image} onClick={()=> window.location.href = x.trailer}/>
-            <button onClick={()=> handleClick(x.title)}><img src={selected[x.title] ? "/public/img/ticket-active-icon.png" : "/public/img/ticket-icon.png"} className='ticket-img' alt="" /></button>
+            <button onClick={()=> handleClick(x.title)}><img src={selected[x.title] ? "/img/ticket-active-icon.png" : "/img/ticket-icon.png"} className='ticket-img' alt="" /></button>
 
             <div className="card-text" >
               <div className="card-context" >
@@ -159,12 +159,12 @@ function Home() {
               {x.type === 'movie' ? 
               (
                 <div>
-                  <img src="/public/img/movies-icon.svg" alt="" />
+                  <img src="/img/movies-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               ) : (
                 <div>
-                  <img src="/public/img/series-icon.svg" alt="" />
+                  <img src="/img/series-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               )}
@@ -205,12 +205,12 @@ function Movies() {
               {x.type === 'movie' ? 
               (
                 <div>
-                  <img src="/public/img/movies-icon.svg" alt="" />
+                  <img src="/img/movies-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               ) : (
                 <div>
-                  <img src="/public/img/series-icon.svg" alt="" />
+                  <img src="/img/series-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               )}
@@ -251,12 +251,12 @@ function Series() {
               {x.type === 'movie' ? 
               (
                 <div>
-                  <img src="/public/img/movies-icon.svg" alt="" />
+                  <img src="/img/movies-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               ) : (
                 <div>
-                  <img src="/public/img/series-icon.svg" alt="" />
+                  <img src="/img/series-icon.svg" alt="" />
                   <span>{x.type}</span>
                 </div>
               )}
@@ -295,7 +295,7 @@ function Bookmarks() {
                   <span>{new Date(movie.release_date).getFullYear()}</span>
                   <div>
                     <img
-                      src={movie.type === 'movie' ? "/public/img/movies-icon.svg" : "/public/img/series-icon.svg"}
+                      src={movie.type === 'movie' ? "/img/movies-icon.svg" : "/img/series-icon.svg"}
                       alt={movie.type}
                     />
                     <span>{movie.type}</span>
