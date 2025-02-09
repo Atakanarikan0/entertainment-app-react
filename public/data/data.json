@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Inception",
+    "release_date": "2010-07-16",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/w1280/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "title": "Breaking Bad",
+    "release_date": "2008-01-20",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY"
+  },
+  {
+    "title": "The Dark Knight",
+    "release_date": "2008-07-18",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "title": "Game of Thrones",
+    "release_date": "2011-04-17",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ"
+  },
+  {
+    "title": "Interstellar",
+    "release_date": "2014-11-07",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "title": "Stranger Things",
+    "release_date": "2016-07-15",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+  },
+  {
+    "title": "Avatar",
+    "release_date": "2009-12-18",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+  {
+    "title": "The Witcher",
+    "release_date": "2019-12-20",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg"
+  },
+  {
+    "title": "The Matrix",
+    "release_date": "1999-03-31",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "title": "The Mandalorian",
+    "release_date": "2019-11-12",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_date": "2003-12-17",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+  },
+  {
+    "title": "Sherlock",
+    "release_date": "2010-07-25",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=IrBKwzL3K7s"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "release_date": "2019-04-26",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=hA6hldpSTF8"
+  },
+  {
+    "title": "The Office",
+    "release_date": "2005-03-24",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-C2z-nshFts"
+  },
+  {
+    "title": "Fight Club",
+    "release_date": "1999-10-15",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M"
+  },
+  {
+    "title": "Friends",
+    "release_date": "1994-09-22",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8wThS5WCzs4"
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_date": "1994-10-14",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/plnlrtBUULT0rh3Xsjmpubiso3L.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tGpTpVyI_OQ"
+  },
+  {
+    "title": "Peaky Blinders",
+    "release_date": "2013-09-12",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg",
+    "trailer": "https://www.youtube.com/watch?v=EM12mcTEI88"
+  },
+  {
+    "title": "The Godfather",
+    "release_date": "1972-03-24",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "trailer": "https://www.youtube.com/watch?v=UaVTIH8mujA"
+  },
+  {
+    "title": "Squid Game",
+    "release_date": "2021-09-17",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=oqxAJKy0ii4"
+  },
+  {
+    "title": "The Boys",
+    "release_date": "2019-07-26",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5SKP1_F7ReE"
+  },
+  {
+    "title": "Parasite",
+    "release_date": "2019-05-30",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "trailer": "https://www.youtube.com/watch?v=isOGD_7hNIY"
+  },
+  {
+    "title": "Better Call Saul",
+    "release_date": "2015-02-08",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://www.themoviedb.org/t/p/w1280/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+    "trailer": "https://www.youtube.com/watch?v=9q4qzYrHVmI"
+  },
+  {
+    "title": "Joker",
+    "release_date": "2019-10-04",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+  },
+  {
+    "title": "The Last of Us",
+    "release_date": "2023-01-15",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uLtkt8BonwM"
+  },
+  {
+    "title": "Dune: Part One",
+    "release_date": "2021-10-22",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=n9xhJrPXop4"
+  },
+  {
+    "title": "House of the Dragon",
+    "release_date": "2022-08-21",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://www.themoviedb.org/t/p/w1280/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DotnJ7tTA34"
+  },
+  {
+    "title": "Gladiator",
+    "release_date": "2000-05-05",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+  },
+  {
+    "title": "The Umbrella Academy",
+    "release_date": "2019-02-15",
+    "type": "series",
+    "age_rating": "TV-14",
+    "image": "https://image.tmdb.org/t/p/original/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+    "trailer": "https://www.youtube.com/watch?v=0DAmWHxeoKw"
+  },
+  {
+    "title": "Titanic",
+    "release_date": "1997-12-19",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://www.themoviedb.org/t/p/w1280/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=2e-eXJ6HgkQ"
+  },
+  {
+    "title": "Money Heist",
+    "release_date": "2017-05-02",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=htqXL94Rza4"
+  },
+  {
+    "title": "Se7en",
+    "release_date": "1995-09-22",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=znmZoVkCjpI"
+  },
+  {
+    "title": "Black Mirror",
+    "release_date": "2011-12-04",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/zcNwPWFjuaR2w352QtoUGCom4Rv.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jROLrhQkK78"
+  },
+  {
+    "title": "Whiplash",
+    "release_date": "2014-10-10",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/6uSPcdGNA2A6vJmCagXkvnutegs.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7d_jQycdQGo"
+  },
+  {
+    "title": "The Simpsons",
+    "release_date": "1989-12-17",
+    "type": "series",
+    "age_rating": "TV-PG",
+    "image": "https://image.tmdb.org/t/p/original/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+    "trailer": "https://www.youtube.com/watch?v=HRV6tMR-SSs"
+  },
+  {
+    "title": "Chernobyl",
+    "release_date": "2019-05-06",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/7vcwOySsqeyEdmfHQNT5jHCL2gb.jpg",
+    "trending": true,
+    "trailer": "https://www.youtube.com/watch?v=s9APLXM9Ei8"
+  },
+  {
+    "title": "Forrest Gump",
+    "release_date": "1994-07-06",
+    "type": "movie",
+    "age_rating": "PG-13",
+    "image": "https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "title": "The Walking Dead",
+    "release_date": "2010-10-31",
+    "type": "series",
+    "age_rating": "TV-MA",
+    "image": "https://image.tmdb.org/t/p/original/z0iCS5Znx7TeRwlYSd4c01Z0lFx.jpg",
+    "trailer": "https://www.youtube.com/watch?v=R1v0uFms68U"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "release_date": "2015-05-15",
+    "type": "movie",
+    "age_rating": "R",
+    "image": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+  }
+]
